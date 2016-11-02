@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 百分比环形进度 -->
+    <declare-styleable name="PercentageRing">
+        <attr name="radius" format="integer" />
+        <attr name="circleBackground" format="color" />
+        <attr name="ringColor" format="color" />
+        <attr name="textColor" format="color" />
+
+    </declare-styleable>
+</resources>
